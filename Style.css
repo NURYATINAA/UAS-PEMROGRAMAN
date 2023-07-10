@@ -1,0 +1,54 @@
+/* Atur tampilan ha;laman */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: yellow (104, 211, 218, 1);
+  }
+  
+  /* Gaya header */
+  header {
+    background-color: #333;
+    color: yellow(122, 247, 255, 181);
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  /* Gaya navigasi */
+  nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Gaya section */
+  section {
+    padding: 20px;
+  }
+  
+  /* Gaya footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
